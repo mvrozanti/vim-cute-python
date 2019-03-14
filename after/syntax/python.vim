@@ -37,6 +37,7 @@ syntax keyword pyNiceOperator  sum                   conceal cchar=∑
 syntax keyword pyNiceOperator  for                   conceal cchar=߶
 syntax keyword pyNiceOperator  continue              conceal cchar=⋱
 syntax keyword pyNiceStatement int                   conceal cchar=ℤ
+syntax keyword pyNiceStatement bool                  conceal cchar=𝔹
 syntax keyword pyNiceStatement float                 conceal cchar=ℝ
 syntax keyword pyNiceStatement complex               conceal cchar=ℂ
 syntax keyword pyNiceStatement False                 conceal cchar=⊭
@@ -61,7 +62,7 @@ syntax keyword pyNiceStatement file                  conceal cchar=⌼
 syntax keyword pyNiceStatement filter                conceal cchar=Ÿ
 syntax keyword pyNiceStatement sorted                conceal cchar=Δ
 syntax keyword pyNiceStatement self                  conceal cchar=ϡ
-syntax keyword pyNiceStatement print                 conceal cchar=࿈
+syntax keyword pyNiceStatement print                 conceal cchar=云
 
 " 䭍
 " —
